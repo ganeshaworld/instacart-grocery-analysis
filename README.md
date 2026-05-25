@@ -8,3 +8,6 @@
 
 "Orders peak on weekends (Saturday #1 with 600,905 orders). Unlike physical stores, 
 online grocery orders peak 10am-3pm — customers plan ahead during daytime, not after work."
+
+"1.34M orders (39%) show increasing order gaps — early churn signals. 
+Targeted promotions for these customers could significantly reduce attrition."
