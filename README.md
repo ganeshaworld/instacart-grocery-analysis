@@ -10,6 +10,8 @@ Grocery customer behaviour analysis using SQL, Python and Power BI — Instacart
 - Orders peak on weekends (Saturday #1 with 600,905 orders). Unlike physical stores, online grocery orders peak 10am-3pm — customers plan ahead during daytime, not after work
 - 1.34M orders (39%) show increasing order gaps — early churn signals. Targeted promotions for these customers could significantly reduce attrition.
 - Banana appears in 60% of top product pairs — the universal anchor product. This insight drives product placement and recommendation engine strategy.
+- Produce & Dairy Eggs are retention departments (65-67% reorder rate). Pantry & Personal Care are acquisition departments (32-34% reorder) — customers try but don't return consistently.
+- Banana appears in 60% of top product pairs — the universal anchor product driving product placement and recommendation strategy.
 
 ## Tools Used
 - PostgreSQL — data storage and SQL analysis
