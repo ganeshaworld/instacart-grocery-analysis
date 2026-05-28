@@ -15,8 +15,24 @@ Grocery customer behaviour analysis using SQL, Python and Power BI — Instacart
 
 ## Tools Used
 - PostgreSQL — data storage and SQL analysis
-- Python — EDA and RFM segmentation (upcoming)
-- Power BI — dashboard (upcoming)
+- Python — EDA and RFM segmentation
+- Power BI — dashboard
 
 ## Dataset
 Instacart Market Basket Analysis — 3.4M orders, 200K users, 50K products
+
+## Dashboard
+
+### Overview
+![Overview](dashboard/overview.png.png)
+
+### Customer Segments
+![Customer Segments](dashboard/customer_segments.png.png)
+
+### Product Intelligence
+![Product Intelligence](dashboard/product_intelligence.png.png)
+
+## Project Structure
+- `sql/` — 6 SQL analysis queries
+- `notebooks/` — Python EDA and RFM segmentation
+- `dashboard/` — Power BI dashboard files
