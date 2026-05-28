@@ -24,13 +24,13 @@ Instacart Market Basket Analysis — 3.4M orders, 200K users, 50K products
 ## Dashboard
 
 ### Overview
-![Overview](dashboard/overview.png.png)
+![Overview]((dashboard/overview.png)
 
 ### Customer Segments
-![Customer Segments](dashboard/customer_segments.png.png)
+![Customer Segments](dashboard/customer_segments.png)
 
 ### Product Intelligence
-![Product Intelligence](dashboard/product_intelligence.png.png)
+![Product Intelligence](dashboard/product_intelligence.png)
 
 ## Project Structure
 - `sql/` — 6 SQL analysis queries
