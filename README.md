@@ -24,7 +24,7 @@ Instacart Market Basket Analysis — 3.4M orders, 200K users, 50K products
 ## Dashboard
 
 ### Overview
-![Overview]((dashboard/overview.png)
+![Overview](dashboard/overview.png)
 
 ### Customer Segments
 ![Customer Segments](dashboard/customer_segments.png)
